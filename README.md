@@ -7,7 +7,7 @@ the apps capabilities and tools for each "CEO" and "ADMIN" are different due to 
 and please pay attention that only One CEO can be created due to security reasons.
 
 # Supported Langs by This App:
-For Now Only "Persian" is supported but in the future versions there will be an English Version as well
+For Now Only "Persian" is supported but in the future there will be an English Version as well
 
 # Credits:
 Designed and developed by Artin Zafari 
